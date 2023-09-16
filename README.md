@@ -1,18 +1,9 @@
-# Assignment Notes 
-This is your first assignment (after the Logo quiz).  The files in this github repository ("repo") are the ones you'll want to use as a template for your assignment.
-
-## Using the files
-To use these, simply clone this repository onto your computer, or go to the GitHub website, click the green `Code` button and download the zip file.
-
-Once you have the files you can open week4.html, week5.html and week6.html and paste your exercise code in the bits indicated.
-
-Don't forget to edit this README.md file as specified in the assignment notes.
-
-To submit, simply zip your assignment1 folder and submit the zipfile.  Instructions on creating a zip file on Mac and PC is available on the unit web site.
-
-## Cloning the Repo from a Terminal
-
-From a terminal: 
-
-`git clone https://github.com/jacksonpost/p4d assignment-2`
-
+# Programming for Design (11055), Semester 2 2023, Assignment 2
+By Tydah Ngep (u3229966), for the University of Canberra
+## Assignment Tasks
+### Week 4 - Designing a simple logo using code
+Simple green and black logo showing the face of a fantasy creature.
+### Week 5 - Designing a simple animation using code
+Animation of a ball bouncing off borders of a window, changing colour with every bounce.
+### Week 6 - Designing an interactive artwork using code
+Interactive drawing board that draws colour-changing ellipses when the mouse is clicked.
